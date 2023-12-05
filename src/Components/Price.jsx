@@ -1,6 +1,6 @@
 import React from 'react';
-import OfflinePrice from '../images/priceOffline.jpg';
-import OnlinePrice from '../images/priceOnline.jpg';
+import OfflinePrice from '/images/priceOffline.jpg';
+import OnlinePrice from '/images/priceOnline.jpg';
 
 function Price(props) {
     return (

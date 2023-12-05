@@ -1,5 +1,4 @@
 import React from 'react';
-import OfflinePrice from "../images/priceOffline.jpg";
 
 function About(props) {
     return (
