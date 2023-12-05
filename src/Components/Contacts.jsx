@@ -4,7 +4,7 @@ import React from 'react';
         return (
                 <div id='contacts'>
 
-                    <p className='price-text-h1' >Контакты</p>
+                    <p className='price-text-h1' >Контакты📞</p>
                         <div className="contact-bar">
                             <div className='contact-blur'>
                             </div>

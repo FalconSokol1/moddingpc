@@ -4,7 +4,7 @@ import OfflinePrice from "../images/priceOffline.jpg";
 function About(props) {
     return (
         <div id='about'>
-            <p className='price-text-h1' >О нас</p>
+            <p className='price-text-h1'>О нас👨‍💻</p>
             <div className='about-div'>
                 <div className=''>
                     <iframe className='iframecon' width="700" height="400" src="https://www.youtube.com/embed/vPIJIGV21J4?si=U61lBC2CTDAhM-dQ"

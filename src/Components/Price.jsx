@@ -5,19 +5,19 @@ import OnlinePrice from '../images/priceOnline.jpg';
 function Price(props) {
     return (
         <div id='price'>
-            <p className='price-text-h1' >Прайс-лист</p>
+            <p className='price-text-h1' >Прайс-лист📃</p>
             <div className='price-image'>
                 <img src={OfflinePrice}/>
                 <div className='price-text-card'>
                     <p className='price-text-small' >Здесь представлены цены за офлайн услуги.</p>
                     <p className='price-text-small' >Если проблема с вашим устройством уже случилась, а помощь нужна сейчас, обращайтесь срочно к нам.</p>
                     <div className=''>
-                        <a href='https://vk.com/im?peers=323678791&sel=c118' className='price-btn'>
+                        <a href='https://vk.com/im?sel=-170661777' className='price-btn'>
                             Связаться
                         </a>
                     </div>
                     <div className=''>
-                        <a href='https://vk.com/im?peers=323678791&sel=c118' className='price-btn'>
+                        <a href='https://vk.com/topic-170661777_46620481' className='price-btn'>
                             Отзывы
                         </a>
                     </div>
@@ -29,12 +29,12 @@ function Price(props) {
                     <p className='price-text-small' >Здесь представлены цены за офлайн услуги.</p>
                     <p className='price-text-small' >Если вы находитесь поблизости рядом с нами, можем оказать услугу с выездом к вам или же будем ждать вас у нас.</p>
                     <div className=''>
-                        <a href='https://vk.com/im?peers=323678791&sel=c118' className='price-btn'>
+                        <a href='https://vk.com/im?sel=-170661777' className='price-btn'>
                             Связаться
                         </a>
                     </div>
                     <div className=''>
-                        <a href='https://vk.com/im?peers=323678791&sel=c118' className='price-btn'>
+                        <a href='' className='price-btn'>
                             Ваш город
                         </a>
                     </div>
